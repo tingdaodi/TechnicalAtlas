@@ -1,4 +1,4 @@
-# 转载 https://github.com/xingshaocheng/architect-awesome
+# [转载](https://github.com/xingshaocheng/architect-awesome#来源)
 
 <h1>《后端架构师技术图谱》</h1>
 
