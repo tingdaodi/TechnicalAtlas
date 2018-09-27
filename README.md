@@ -1,4 +1,4 @@
-# TechnicalAtlas
+# 转载 https://github.com/xingshaocheng/architect-awesome
 
 <h1>《后端架构师技术图谱》</h1>
 
